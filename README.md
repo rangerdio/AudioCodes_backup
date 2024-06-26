@@ -17,6 +17,8 @@ Usage
 - AudioCodes configuration files will be populated in the same directory, along with log file with details to track errors.
 - Name contains the IP address and timestamp of creation, so version of the backup is uniqly identified by the timestamp.
 
+
+
 Tested with following AudioCodes Devoces:
 
                             Mediant VE SBC	Software Version: 	
@@ -28,7 +30,8 @@ Tested with following AudioCodes Devoces:
 								7.20A.258.119
 								7.40A.500.786
 
-Tested on:
+
+Tested on following machines:
   - Windows 11 Pro
   - Windows 10 Pro
   - Windows Server 2022
@@ -38,6 +41,7 @@ Tested on:
 
 
 Note:
+
 App will not directly work on "Windows 7 SP1" and "Windows Server 2008 R2" due to compitability issue of Python 3.9+ with these old systems.
 When Ran, an error for missing  / python39.dll / api-ms-win-core-path-l1-1-0.dll is missing from your computer /
 I was able to workaround this by using "https://github.com/adang1345/PythonWin7" on target Windwos Server 2008 R2 (tested with 3.10.13 on Windows Server 2008 R2).
