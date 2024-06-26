@@ -1,0 +1,3904 @@
+('G:\\My Drive\\Programming\\AudioCodes_backup\\build\\audiocodes_v1r1 - '
+ 'credentials\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('bcrypt',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\bcrypt\\__init__.py',
+   'PYMODULE'),
+  ('bcrypt.__about__',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\bcrypt\\__about__.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('colorama',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\colorama\\__init__.py',
+   'PYMODULE'),
+  ('colorama.ansi',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\colorama\\ansi.py',
+   'PYMODULE'),
+  ('colorama.ansitowin32',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\colorama\\ansitowin32.py',
+   'PYMODULE'),
+  ('colorama.initialise',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\colorama\\initialise.py',
+   'PYMODULE'),
+  ('colorama.win32',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\colorama\\win32.py',
+   'PYMODULE'),
+  ('colorama.winterm',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\colorama\\winterm.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('cryptography',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\__about__.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.aead',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ciphers',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ciphers.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.cmac',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\cmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.decode_asn1',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\decode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ec',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.rsa',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\_conditional.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._asymmetric',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_asymmetric.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._cipheralgorithm',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_cipheralgorithm.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._serialization',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_serialization.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dh',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dsa',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed25519',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed448',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.types',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\types.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x25519',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x448',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.aead',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.constant_time',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.base',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.pkcs12',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\pkcs12.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.ssh',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\utils.py',
+   'PYMODULE'),
+  ('cryptography.x509',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\x509\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\x509\\base.py',
+   'PYMODULE'),
+  ('cryptography.x509.certificate_transparency',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\x509\\certificate_transparency.py',
+   'PYMODULE'),
+  ('cryptography.x509.extensions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\x509\\extensions.py',
+   'PYMODULE'),
+  ('cryptography.x509.general_name',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\x509\\general_name.py',
+   'PYMODULE'),
+  ('cryptography.x509.name',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\x509\\name.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('dateutil',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('et_xmlfile',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\et_xmlfile\\__init__.py',
+   'PYMODULE'),
+  ('et_xmlfile.xmlfile',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\et_xmlfile\\xmlfile.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('nacl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\__init__.py',
+   'PYMODULE'),
+  ('nacl.bindings',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_aead',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\crypto_aead.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_box',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\crypto_box.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_core',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\crypto_core.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_generichash',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\crypto_generichash.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_hash',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\crypto_hash.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_kx',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\crypto_kx.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_pwhash',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\crypto_pwhash.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_scalarmult',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\crypto_scalarmult.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_secretbox',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\crypto_secretbox.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_secretstream',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\crypto_secretstream.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_shorthash',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\crypto_shorthash.py',
+   'PYMODULE'),
+  ('nacl.bindings.crypto_sign',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\crypto_sign.py',
+   'PYMODULE'),
+  ('nacl.bindings.randombytes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\randombytes.py',
+   'PYMODULE'),
+  ('nacl.bindings.sodium_core',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\sodium_core.py',
+   'PYMODULE'),
+  ('nacl.bindings.utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\bindings\\utils.py',
+   'PYMODULE'),
+  ('nacl.encoding',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\encoding.py',
+   'PYMODULE'),
+  ('nacl.exceptions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\exceptions.py',
+   'PYMODULE'),
+  ('nacl.public',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\public.py',
+   'PYMODULE'),
+  ('nacl.signing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\signing.py',
+   'PYMODULE'),
+  ('nacl.utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\nacl\\utils.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy._core._machar',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\_machar.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('openpyxl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl._constants',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\_constants.py',
+   'PYMODULE'),
+  ('openpyxl.cell',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\cell\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.cell._writer',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\cell\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.cell.cell',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\cell\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.cell.read_only',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\cell\\read_only.py',
+   'PYMODULE'),
+  ('openpyxl.cell.rich_text',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\cell\\rich_text.py',
+   'PYMODULE'),
+  ('openpyxl.cell.text',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\cell\\text.py',
+   'PYMODULE'),
+  ('openpyxl.chart',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chart._3d',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\_3d.py',
+   'PYMODULE'),
+  ('openpyxl.chart._chart',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.area_chart',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\area_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.axis',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\axis.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bar_chart',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\bar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bubble_chart',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\bubble_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.chartspace',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\chartspace.py',
+   'PYMODULE'),
+  ('openpyxl.chart.data_source',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\data_source.py',
+   'PYMODULE'),
+  ('openpyxl.chart.descriptors',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\descriptors.py',
+   'PYMODULE'),
+  ('openpyxl.chart.error_bar',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\error_bar.py',
+   'PYMODULE'),
+  ('openpyxl.chart.label',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\label.py',
+   'PYMODULE'),
+  ('openpyxl.chart.layout',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\layout.py',
+   'PYMODULE'),
+  ('openpyxl.chart.legend',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\legend.py',
+   'PYMODULE'),
+  ('openpyxl.chart.line_chart',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\line_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.marker',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\marker.py',
+   'PYMODULE'),
+  ('openpyxl.chart.picture',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\picture.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pie_chart',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\pie_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pivot',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\pivot.py',
+   'PYMODULE'),
+  ('openpyxl.chart.plotarea',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\plotarea.py',
+   'PYMODULE'),
+  ('openpyxl.chart.print_settings',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\print_settings.py',
+   'PYMODULE'),
+  ('openpyxl.chart.radar_chart',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\radar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reader',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\reader.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reference',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\reference.py',
+   'PYMODULE'),
+  ('openpyxl.chart.scatter_chart',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\scatter_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\series.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series_factory',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\series_factory.py',
+   'PYMODULE'),
+  ('openpyxl.chart.shapes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\shapes.py',
+   'PYMODULE'),
+  ('openpyxl.chart.stock_chart',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\stock_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.surface_chart',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\surface_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.text',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\text.py',
+   'PYMODULE'),
+  ('openpyxl.chart.title',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\title.py',
+   'PYMODULE'),
+  ('openpyxl.chart.trendline',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\trendline.py',
+   'PYMODULE'),
+  ('openpyxl.chart.updown_bars',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chart\\updown_bars.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chartsheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.chartsheet',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chartsheet\\chartsheet.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.custom',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chartsheet\\custom.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.properties',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chartsheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.protection',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chartsheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.publish',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chartsheet\\publish.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.relation',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chartsheet\\relation.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.views',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\chartsheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.comments',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\comments\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.comments.author',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\comments\\author.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comment_sheet',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\comments\\comment_sheet.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comments',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\comments\\comments.py',
+   'PYMODULE'),
+  ('openpyxl.comments.shape_writer',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\comments\\shape_writer.py',
+   'PYMODULE'),
+  ('openpyxl.compat',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\compat\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.compat.numbers',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\compat\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.compat.strings',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\compat\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\descriptors\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.base',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\descriptors\\base.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.excel',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\descriptors\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.namespace',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\descriptors\\namespace.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.nested',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\descriptors\\nested.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.sequence',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\descriptors\\sequence.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.serialisable',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\descriptors\\serialisable.py',
+   'PYMODULE'),
+  ('openpyxl.drawing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.colors',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.connector',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\connector.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.drawing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.effect',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\effect.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.fill',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\fill.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.geometry',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\geometry.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.graphic',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\graphic.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.image',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\image.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.line',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\line.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.picture',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\picture.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.properties',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.relation',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\relation.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.spreadsheet_drawing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\spreadsheet_drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.text',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\text.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.xdr',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\drawing\\xdr.py',
+   'PYMODULE'),
+  ('openpyxl.formatting',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\formatting\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.formatting',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\formatting\\formatting.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.rule',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\formatting\\rule.py',
+   'PYMODULE'),
+  ('openpyxl.formula',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\formula\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formula.tokenizer',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\formula\\tokenizer.py',
+   'PYMODULE'),
+  ('openpyxl.formula.translate',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\formula\\translate.py',
+   'PYMODULE'),
+  ('openpyxl.packaging',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.core',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\packaging\\core.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.custom',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\packaging\\custom.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.extended',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\packaging\\extended.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.manifest',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\packaging\\manifest.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.relationship',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\packaging\\relationship.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.workbook',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\packaging\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.pivot',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\pivot\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.cache',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\pivot\\cache.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.fields',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\pivot\\fields.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.record',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\pivot\\record.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.table',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\pivot\\table.py',
+   'PYMODULE'),
+  ('openpyxl.reader',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\reader\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.reader.drawings',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\reader\\drawings.py',
+   'PYMODULE'),
+  ('openpyxl.reader.excel',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\reader\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.reader.strings',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\reader\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.reader.workbook',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\reader\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.styles',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.styles.alignment',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\alignment.py',
+   'PYMODULE'),
+  ('openpyxl.styles.borders',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\borders.py',
+   'PYMODULE'),
+  ('openpyxl.styles.builtins',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\builtins.py',
+   'PYMODULE'),
+  ('openpyxl.styles.cell_style',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\cell_style.py',
+   'PYMODULE'),
+  ('openpyxl.styles.colors',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.styles.differential',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\differential.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fills',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\fills.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fonts',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\fonts.py',
+   'PYMODULE'),
+  ('openpyxl.styles.named_styles',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\named_styles.py',
+   'PYMODULE'),
+  ('openpyxl.styles.numbers',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.styles.protection',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.styles.proxy',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\proxy.py',
+   'PYMODULE'),
+  ('openpyxl.styles.styleable',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\styleable.py',
+   'PYMODULE'),
+  ('openpyxl.styles.stylesheet',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\stylesheet.py',
+   'PYMODULE'),
+  ('openpyxl.styles.table',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\styles\\table.py',
+   'PYMODULE'),
+  ('openpyxl.utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\utils\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.utils.bound_dictionary',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\utils\\bound_dictionary.py',
+   'PYMODULE'),
+  ('openpyxl.utils.cell',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\utils\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.utils.datetime',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\utils\\datetime.py',
+   'PYMODULE'),
+  ('openpyxl.utils.escape',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\utils\\escape.py',
+   'PYMODULE'),
+  ('openpyxl.utils.exceptions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\utils\\exceptions.py',
+   'PYMODULE'),
+  ('openpyxl.utils.formulas',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\utils\\formulas.py',
+   'PYMODULE'),
+  ('openpyxl.utils.indexed_list',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\utils\\indexed_list.py',
+   'PYMODULE'),
+  ('openpyxl.utils.protection',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\utils\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.utils.units',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\utils\\units.py',
+   'PYMODULE'),
+  ('openpyxl.workbook',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\workbook\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook._writer',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\workbook\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.child',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\workbook\\child.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.defined_name',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\workbook\\defined_name.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\workbook\\external_link\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link.external',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\workbook\\external_link\\external.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_reference',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\workbook\\external_reference.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.function_group',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\workbook\\function_group.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.properties',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\workbook\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.protection',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\workbook\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.smart_tags',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\workbook\\smart_tags.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.views',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\workbook\\views.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.web',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\workbook\\web.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.workbook',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\workbook\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._read_only',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\_read_only.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._reader',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\_reader.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._write_only',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\_write_only.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._writer',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.cell_range',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\cell_range.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.copier',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\copier.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.datavalidation',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\datavalidation.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.dimensions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\dimensions.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.drawing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.filters',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\filters.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.formula',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\formula.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.header_footer',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\header_footer.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.hyperlink',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\hyperlink.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.merge',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\merge.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.page',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\page.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.pagebreak',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\pagebreak.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.print_settings',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\print_settings.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.properties',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.protection',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.related',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\related.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.scenario',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\scenario.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.table',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\table.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.views',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.worksheet',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\worksheet\\worksheet.py',
+   'PYMODULE'),
+  ('openpyxl.writer',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\writer\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.writer.excel',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\writer\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.writer.theme',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\writer\\theme.py',
+   'PYMODULE'),
+  ('openpyxl.xml',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\xml\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.xml.constants',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\xml\\constants.py',
+   'PYMODULE'),
+  ('openpyxl.xml.functions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\openpyxl\\xml\\functions.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pandas',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_testing\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing._io',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_testing\\_io.py',
+   'PYMODULE'),
+  ('pandas._testing._warnings',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_testing\\_warnings.py',
+   'PYMODULE'),
+  ('pandas._testing.asserters',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_testing\\asserters.py',
+   'PYMODULE'),
+  ('pandas._testing.compat',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_testing\\compat.py',
+   'PYMODULE'),
+  ('pandas._testing.contexts',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_testing\\contexts.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas._version_meson',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\_version_meson.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.interchange',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\api\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.typing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\api\\typing\\__init__.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat._constants',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\compat\\_constants.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas.compat.compressors',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\compat\\compressors.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.compat.pyarrow',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\compat\\pyarrow.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\_numba\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.executor',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\_numba\\executor.py',
+   'PYMODULE'),
+  ('pandas.core._numba.extensions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\_numba\\extensions.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.mean_',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\mean_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.min_max_',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\min_max_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.shared',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\shared.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.sum_',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\sum_.py',
+   'PYMODULE'),
+  ('pandas.core._numba.kernels.var_',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\_numba\\kernels\\var_.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.datetimelike_accumulations',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\array_algos\\datetimelike_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_accumulations',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\array_algos\\masked_accumulations.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.putmask',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\array_algos\\putmask.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.quantile',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\array_algos\\quantile.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\array_algos\\replace.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.take',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\array_algos\\take.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_string_mixins',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\_arrow_string_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\arrow\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow._arrow_utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\arrow\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.accessors',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\arrow\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.array',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\arrow\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.arrow.extension_types',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\arrow\\extension_types.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\floating.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\string_arrow.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.astype',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\dtypes\\astype.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\flags.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.indexing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\groupby\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\groupby\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.objects',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexers\\objects.py',
+   'PYMODULE'),
+  ('pandas.core.indexers.utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexers\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.interchange',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\interchange\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.buffer',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\interchange\\buffer.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.column',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\interchange\\column.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\interchange\\dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.dataframe_protocol',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\interchange\\dataframe_protocol.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.from_dataframe',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\interchange\\from_dataframe.py',
+   'PYMODULE'),
+  ('pandas.core.interchange.utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\interchange\\utils.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.api',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\internals\\api.py',
+   'PYMODULE'),
+  ('pandas.core.internals.array_manager',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\internals\\array_manager.py',
+   'PYMODULE'),
+  ('pandas.core.internals.base',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\internals\\base.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.methods',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\methods\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.methods.describe',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\methods\\describe.py',
+   'PYMODULE'),
+  ('pandas.core.methods.selectn',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\methods\\selectn.py',
+   'PYMODULE'),
+  ('pandas.core.methods.to_dict',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\methods\\to_dict.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.encoding',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\reshape\\encoding.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.core.roperator',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.sample',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\sample.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\strings\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\strings\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.strings.base',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\strings\\base.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\strings\\object_array.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas.core.window.doc',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\window\\doc.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.online',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\window\\online.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io._util',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._calamine',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\excel\\_calamine.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\formats\\_color_data.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\formats\\string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style_render',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\formats\\style_render.py',
+   'PYMODULE'),
+  ('pandas.io.formats.xml',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\formats\\xml.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.arrow_parser_wrapper',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\parsers\\arrow_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.base_parser',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\parsers\\base_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.c_parser_wrapper',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\parsers\\c_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.python_parser',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\parsers\\python_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.readers',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\parsers\\readers.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('pandas.io.xml',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\io\\xml.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.tseries.holiday',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\tseries\\holiday.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.util.version',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pandas\\util\\version\\__init__.py',
+   'PYMODULE'),
+  ('paramiko',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\__init__.py',
+   'PYMODULE'),
+  ('paramiko._version',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\_version.py',
+   'PYMODULE'),
+  ('paramiko._winapi',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\_winapi.py',
+   'PYMODULE'),
+  ('paramiko.agent',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\agent.py',
+   'PYMODULE'),
+  ('paramiko.auth_handler',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\auth_handler.py',
+   'PYMODULE'),
+  ('paramiko.auth_strategy',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\auth_strategy.py',
+   'PYMODULE'),
+  ('paramiko.ber',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\ber.py',
+   'PYMODULE'),
+  ('paramiko.buffered_pipe',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\buffered_pipe.py',
+   'PYMODULE'),
+  ('paramiko.channel',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\channel.py',
+   'PYMODULE'),
+  ('paramiko.client',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\client.py',
+   'PYMODULE'),
+  ('paramiko.common',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\common.py',
+   'PYMODULE'),
+  ('paramiko.compress',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\compress.py',
+   'PYMODULE'),
+  ('paramiko.config',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\config.py',
+   'PYMODULE'),
+  ('paramiko.dsskey',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\dsskey.py',
+   'PYMODULE'),
+  ('paramiko.ecdsakey',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\ecdsakey.py',
+   'PYMODULE'),
+  ('paramiko.ed25519key',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\ed25519key.py',
+   'PYMODULE'),
+  ('paramiko.file',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\file.py',
+   'PYMODULE'),
+  ('paramiko.hostkeys',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\hostkeys.py',
+   'PYMODULE'),
+  ('paramiko.kex_curve25519',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\kex_curve25519.py',
+   'PYMODULE'),
+  ('paramiko.kex_ecdh_nist',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\kex_ecdh_nist.py',
+   'PYMODULE'),
+  ('paramiko.kex_gex',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\kex_gex.py',
+   'PYMODULE'),
+  ('paramiko.kex_group1',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\kex_group1.py',
+   'PYMODULE'),
+  ('paramiko.kex_group14',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\kex_group14.py',
+   'PYMODULE'),
+  ('paramiko.kex_group16',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\kex_group16.py',
+   'PYMODULE'),
+  ('paramiko.kex_gss',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\kex_gss.py',
+   'PYMODULE'),
+  ('paramiko.message',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\message.py',
+   'PYMODULE'),
+  ('paramiko.packet',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\packet.py',
+   'PYMODULE'),
+  ('paramiko.pipe',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\pipe.py',
+   'PYMODULE'),
+  ('paramiko.pkey',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\pkey.py',
+   'PYMODULE'),
+  ('paramiko.primes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\primes.py',
+   'PYMODULE'),
+  ('paramiko.proxy',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\proxy.py',
+   'PYMODULE'),
+  ('paramiko.rsakey',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\rsakey.py',
+   'PYMODULE'),
+  ('paramiko.server',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\server.py',
+   'PYMODULE'),
+  ('paramiko.sftp',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\sftp.py',
+   'PYMODULE'),
+  ('paramiko.sftp_attr',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\sftp_attr.py',
+   'PYMODULE'),
+  ('paramiko.sftp_client',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\sftp_client.py',
+   'PYMODULE'),
+  ('paramiko.sftp_file',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\sftp_file.py',
+   'PYMODULE'),
+  ('paramiko.sftp_handle',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\sftp_handle.py',
+   'PYMODULE'),
+  ('paramiko.sftp_server',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\sftp_server.py',
+   'PYMODULE'),
+  ('paramiko.sftp_si',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\sftp_si.py',
+   'PYMODULE'),
+  ('paramiko.ssh_exception',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\ssh_exception.py',
+   'PYMODULE'),
+  ('paramiko.ssh_gss',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\ssh_gss.py',
+   'PYMODULE'),
+  ('paramiko.transport',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\transport.py',
+   'PYMODULE'),
+  ('paramiko.util',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\util.py',
+   'PYMODULE'),
+  ('paramiko.win_openssh',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\win_openssh.py',
+   'PYMODULE'),
+  ('paramiko.win_pageant',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\paramiko\\win_pageant.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pickletools',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickletools.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._adapters',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._common',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._compat',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._itertools',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._legacy',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.abc',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.readers',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.simple',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.context',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.functools',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.text',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.more',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.recipes',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._elffile',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._parser',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._tokenizer',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.metadata',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.__main__',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__main__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.android',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.api',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.macos',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.unix',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.version',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.windows',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.typing_extensions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.zipp',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pyarrow',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pyarrow\\__init__.py',
+   'PYMODULE'),
+  ('pyarrow._compute_docstrings',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pyarrow\\_compute_docstrings.py',
+   'PYMODULE'),
+  ('pyarrow._generated_version',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pyarrow\\_generated_version.py',
+   'PYMODULE'),
+  ('pyarrow.compute',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pyarrow\\compute.py',
+   'PYMODULE'),
+  ('pyarrow.dataset',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pyarrow\\dataset.py',
+   'PYMODULE'),
+  ('pyarrow.feather',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pyarrow\\feather.py',
+   'PYMODULE'),
+  ('pyarrow.fs',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pyarrow\\fs.py',
+   'PYMODULE'),
+  ('pyarrow.ipc',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pyarrow\\ipc.py',
+   'PYMODULE'),
+  ('pyarrow.pandas_compat',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pyarrow\\pandas_compat.py',
+   'PYMODULE'),
+  ('pyarrow.parquet',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pyarrow\\parquet\\__init__.py',
+   'PYMODULE'),
+  ('pyarrow.parquet.core',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pyarrow\\parquet\\core.py',
+   'PYMODULE'),
+  ('pyarrow.types',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pyarrow\\types.py',
+   'PYMODULE'),
+  ('pyarrow.util',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pyarrow\\util.py',
+   'PYMODULE'),
+  ('pyarrow.vendored',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pyarrow\\vendored\\__init__.py',
+   'PYMODULE'),
+  ('pyarrow.vendored.docscrape',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pyarrow\\vendored\\docscrape.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pytz',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'G:\\My Drive\\Programming\\zInterpreter\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'G:\\My '
+   'Drive\\Programming\\zInterpreter\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('six',
+   'G:\\My Drive\\Programming\\zInterpreter\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\vladi\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
+   'PYMODULE')])
