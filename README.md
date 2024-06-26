@@ -17,6 +17,8 @@ Usage
 - AudioCodes configuration files will be populated in the same directory, along with log file with details to track errors.
 - Name contains the IP address and timestamp of creation, so version of the backup is uniqly identified by the timestamp.
 
+
+
 Tested with following AudioCodes Devoces:
 
                             Mediant VE SBC	Software Version: 	
@@ -27,6 +29,7 @@ Tested with following AudioCodes Devoces:
 								7.40A.250.440
 								7.20A.258.119
 								7.40A.500.786
+
 
 Tested on following machines:
   - Windows 11 Pro
