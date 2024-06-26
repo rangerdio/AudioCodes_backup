@@ -1,7 +1,7 @@
 # AudioCodes_backup
 Simple app to extract AudioCodes configuration file on safe place.
 
-Created while learning Python, using Python 3.9.1.
+Created while learning Python, using Python 3.9.13.
 DIST exe file is created to be used directly on systems that do not have python installed. Builded with pyinstaller.
 
 Usage
