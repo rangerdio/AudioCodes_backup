@@ -2,7 +2,7 @@
 Simple app to extract AudioCodes configuration file on safe place.
 
 Created while learning Python, using Python 3.9.1.
-DIST exe file is created to be used directly on systems that are do not have python app installed. Builded with pyinstaller.
+DIST exe file is created to be used directly on systems that do not have python installed. Builded with pyinstaller.
 
 Usage
 - put the .exe file along with devices.xlsx in desired windows folder.
